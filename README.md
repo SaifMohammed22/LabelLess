@@ -18,5 +18,18 @@ Vision Transformers now dominate computer vision, yet they are **data-hungry** a
 ## Dataset
 We're mainly using [CIFAR10](https://cave.cs.toronto.edu/kriz/cifar.html): a dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 
+## Team
+- [Saif Mohammed](https://github.com/SaifMohammed22)
+- [Mennat Allah Khalifa](https://github.com/Menna1812)
 
-
+## Acknowledgement
+Some parts of this project are adapted from or inspired by [Boyuan Chen](https://github.com/buoyancy99/research-template.git) ML research template under MIT License.
+```
+@article{chen2025diffusion,
+  title={Diffusion forcing: Next-token prediction meets full-sequence diffusion},
+  author={Chen, Boyuan and Mart{\'\i} Mons{\'o}, Diego and Du, Yilun and Simchowitz, Max and Tedrake, Russ and Sitzmann, Vincent},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={24081--24125},
+  year={2025}
+}
